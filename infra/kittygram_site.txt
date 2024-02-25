@@ -1,5 +1,5 @@
 IP: 62.84.121.169;
 name_taski: https://sergtaski.hopto.org/;
-name_kittygram: https://lsakittygram.hopto.org/;
+name_kittygram: https://lsakittygram.hopto.org;
 login: yc-user;
 password: 1111;
